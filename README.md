@@ -24,7 +24,7 @@ const more_about_me = {
   tech_communities: {
                         secretary: "BESS",
                         outreach_chair: "NUWIT",
-                        mentor: "CoSMO",
+                        Peer2Peer mentor: "CoSMO",
                         fellow: "RTC",
                         member: "ColorStack"
                    }
