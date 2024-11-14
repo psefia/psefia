@@ -30,6 +30,9 @@
 
 ```
 
+<br>
+<br>
+
 <img align=right width=450 valign="center" src=https://github.com/user-attachments/assets/42f4e7d9-b0b4-4673-b25c-0ab11c5c8015>
 
 ```python
@@ -45,6 +48,9 @@
         return communities
 
 ```
+
+<br>
+<br>
 
 <img align=right width=450 valign="center" src=https://github.com/user-attachments/assets/3b43b225-9fdb-4422-b9c3-e6d35155b49b>
 
