@@ -7,28 +7,58 @@
 
 
 
-<p align="center"><i>I'm currently a Computer Science and Cognitive Psychology student, interested in software development, algorithms, artificial intelligence, machine learning, and Q-learning. My career goals are to either be a software developer or a human and computer interaction engineer!</i></p>
-<br>
-
 <img align=right width=450 valign="center" src=https://github.com/user-attachments/assets/5ee5946f-3c3d-4184-a146-6f4bc5f1c379>
 
 
-```
-const more_about_me = {
+```python
 
-  pronouns: "she" | "her" | "hers",
-  code: [Java, Python, C++, SQL, R, HTML, CSS, ROS2],
-  IDEs: [Visual_Studio_Code, IntelliJ, CLion, PyCharm],
-  tools: [Snowflake, Atlassian, AWS, PowerBI, LucidChart], 
-  systems: [Windows, Linux (Ubuntu)],
-  tech_communities: {
+  class Paulaaaa:
+
+
+      # A Little About Me 💡
+      def __init__(self):
+        self.pronouns = ["she", "her", "hers"]
+        self.school = "Northeastern University"
+        self.majors = ["Computer Science", "Cognitive Psychology"]
+        self.languages = ["Java", "Python", "C++", "R"]
+
+
+
+      # Fun Fact 🌟
+      def add_one_more_language(self):
+        self.languages.append("I know a bit of Spanish :P")
+
+```
+
+<img align=right width=450 valign="center" src=https://github.com/user-attachments/assets/42f4e7d9-b0b4-4673-b25c-0ab11c5c8015>
+
+```python
+      # The Orgs I'm a Part of in School 🏢
+      def tech_communities(self):
+        communities = {
                         secretary: "BESS",
                         outreach_chair: "NUWIT",
-                        peer2peer mentor: "CoSMO",
+                        peer2peer_mentor: "CoSMO",
                         fellow: "RTC",
                         member: "ColorStack"
-                   }
-}
+                      }
+        return communities
+
+```
+
+<img align=right width=450 valign="center" src=https://github.com/user-attachments/assets/3b43b225-9fdb-4422-b9c3-e6d35155b49b>
+
+```python
+      # My Work Experience 👩🏾‍💻
+      def work_experience(self):
+        work = {
+                  celularity: "Information Technology Intern",
+                  crown_castle: "Quality Assurance Intern",
+                  liberty_mutual: "Data Engineering Intern",
+                  linevision: "Information Technology Co-Op",
+                  northeastern: "CS 2500 Teaching Assistant"
+                }
+        return work
 ```
 
 
