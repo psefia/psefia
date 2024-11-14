@@ -19,7 +19,7 @@
       def __init__(self):
         self.pronouns = ["she", "her", "hers"]
         self.school = "Northeastern University"
-        self.majors = ["Computer Science", "Cognitive Psychology"]
+        self.majors = ["Computer Science", "Cognitive Psych"]
         self.languages = ["Java", "Python", "C++", "R"]
 
 
