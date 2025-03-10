@@ -77,3 +77,4 @@
 
 </div>
 
+![Snake animation](https://github.com/psefia/psefia/blob/output/github-contribution-grid-snake.svg)
