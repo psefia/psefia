@@ -1,7 +1,3 @@
-<div align="center">
-  <img align="center" alt="Coding" width="1000" height="250" src="https://64.media.tumblr.com/4dc7f9d7902c65856e4baa8aeaeaed01/tumblr_owsbgsWF5R1r5u9m2o4_500.gif">
-</div>
-
 <br>
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Paula+👋;Hi+there,+I'm+a+Computer+Scientist+💻;Hi+there,+I'm+a+Cognitive+Psychologist+🧠;Hi+there,+I'm+a+Software+Tester+🔍;Hi+there,+I'm+a+Coder+👩🏿‍💻;Hi+there,+I'm+an+Honors+Student+🎓;Hi+there,+I'm+an+Innovator+💡;Hi+there,+I'm+a+Problem+Solver+🧩;Hi+there,+I'm+an+Advocate+For+Having+Fun+🎉&center=true&font=Kalnia+Glaze&color=CF9FFF&&size=40&width=1000&height=100&duration=4000&pause=1000" alt="README Typing SVG">
 
