@@ -1,7 +1,6 @@
 <br>
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Paula+👋;Hi+there,+I'm+a+Computer+Scientist+💻;Hi+there,+I'm+a+Cognitive+Psychologist+🧠;Hi+there,+I'm+a+Software+Tester+🔍;Hi+there,+I'm+a+Coder+👩🏿‍💻;Hi+there,+I'm+an+Honors+Student+🎓;Hi+there,+I'm+an+Innovator+💡;Hi+there,+I'm+a+Problem+Solver+🧩;Hi+there,+I'm+an+Advocate+For+Having+Fun+🎉&center=true&font=Kalnia+Glaze&color=CF9FFF&&size=40&width=1000&height=100&duration=4000&pause=1000" alt="README Typing SVG">
 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kalnia+Glaze&size=80&pause=1000&color=DB28F7&center=true&vCenter=true&width=2000&height=100&lines=Hi+there%2C+I'm+Paula%F0%9F%91%8B;Hi+there%2C+I'm+a+Computer+Scientist+%F0%9F%92%BB;Hi+there%2C+I'm+a+Cognitive+Psychologist+%F0%9F%A7%A0;Hi+there%2C+I'm+a+Software+Tester+%F0%9F%94%8D;Hi+there%2C+I'm+a+Coder+%F0%9F%91%A9%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB;Hi+there%2C+I'm+an+Honors+Student+%F0%9F%8E%93;Hi+there%2C+I'm+an+Innovator+%F0%9F%92%A1;Hi+there%2C+I'm+a+Problem+Solver+%F0%9F%A7%A9;Hi+there%2C+I'm+an+Advocate+For+Having+Fun%F0%9F%8E%89" alt="Typing SVG" /></a>
 
 <img align=right width=450 valign="center" src=https://github.com/user-attachments/assets/5ee5946f-3c3d-4184-a146-6f4bc5f1c379>
 
